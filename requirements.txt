@@ -1,10 +1,8 @@
 boto==2.49.0
-cactus==3.3.3
 Click==7.0
 colorama==0.4.3
 colorlog==4.1.0
-django==1.6.11
-django-markwhat==1.6.2
+pyrebase
 Flask==1.1.1
 itsdangerous==1.1.0
 Jinja2==2.11.1
